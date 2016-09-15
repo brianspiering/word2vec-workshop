@@ -20,3 +20,7 @@ Bio
 Dr. Brian Spiering is a faculty member at GalvanizeU which offers a Master of Science in Data Science. His passions are Natural Language Processing (NLP), deep learning, and building data products. He is active in the San Francisco Data Science community through volunteering and mentoring.
 
 Drop me a line brian.spiering@galvanize.com
+
+----
+__Disclaimer__: The interactive notebooks are meant to be run. There might be elements not rendered correctly statically on GitHub.
+
