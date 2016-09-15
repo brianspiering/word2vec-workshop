@@ -1,5 +1,5 @@
 # Create env:
-# $ conda env create --force`
+# $ conda env create --force
 
 name: word2vec
 channels:
