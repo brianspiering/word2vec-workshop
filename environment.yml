@@ -1,0 +1,24 @@
+# Create env:
+# $ conda env create --force`
+
+name: word2vec
+channels:
+  - conda-forge
+dependencies:
+  - python = 3.5
+  - ipython > 5.0
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - tensorflow
+  - setuptools
+  - spacy
+  - pip
+  - pip:
+      - gensim
+      - ftfy
+      - textblob
+      - plotly
+     
+# Start env:
+# $ source activate word2vec
