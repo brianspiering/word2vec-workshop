@@ -7,12 +7,14 @@ channels:
 dependencies:
   - python = 3.5
   - ipython > 5.0
+  - jupyter >= 1.0
   - numpy
   - matplotlib
   - scikit-learn
   - tensorflow
   - setuptools
   - spacy
+  - psutil
   - pip
   - pip:
       - gensim
