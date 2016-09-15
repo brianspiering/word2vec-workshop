@@ -10,7 +10,7 @@ There are 2 ways to access the materials for this workshop:
 
 Option 1 is the best. It allows you to "learn through doing". Option 2, aka standard lecture-style, works and seems easier, but trust me you'll have a deeper understanding of the material and enjoy our time together more if you go through the hassle of Option 1.
 
-Setting up environments is still a source of _suck_. Given that people have different backgrounds, levels of experience, hardware, operating systems, software, and if we have entered the Age of Aquarius. 
+Setting up environments is still a source of _suck_. Given that people have different backgrounds, levels of experience, hardware, operating systems, software, and if mercury is in retrograde. 
 
 Let's try to do the best we can...
 
@@ -29,6 +29,6 @@ Here is what works for me. I hope works for you:
     - Then start your environment by typing this command `$ source activate word2vec` in the terminal.
 4. Start the Jupyter Notebook 
     - Type this command `$ Jupyter Notebook`
-    - Hopefully, it launches the notebook in your favorite web browser
+    - Hopefully, it launches the notebook in your favorite web browser.
 
 Don't worry if this doesn't work for you - It doesn't mean that you are a bad person. You can try to Google/Stack Overflow but sometimes that might make it worse. It is better to introduce yourself to a neighbor and ask that person. Or ask for help from one of the staff (including Brian). 
