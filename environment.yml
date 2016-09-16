@@ -13,14 +13,7 @@ dependencies:
   - scikit-learn
   - tensorflow
   - setuptools
-  - spacy
   - psutil
-  - pip
-  - pip:
-      - gensim
-      - ftfy
-      - textblob
-      - plotly
      
 # Start env:
 # $ source activate word2vec
