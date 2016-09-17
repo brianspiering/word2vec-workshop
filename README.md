@@ -1,4 +1,4 @@
-Word2vec Algorithm Workshop: Made as simple as possible, but no simpler
+Word2vec Algorithm: Made as simple as possible, but no simpler
 ====
 
 ----
